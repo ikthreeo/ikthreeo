@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ikthreeo
+- 👀 I’m interested in creative coding
+- 🌱 I’m currently learning web development
+- 📫 How to reach me [here](mailto:git@ieshaan.com)
