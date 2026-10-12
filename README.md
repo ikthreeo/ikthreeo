@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ikthreeo
-- 🌱 I’m currently learning web development
 - 📫 You can reach me [here](mailto:git@ikthreeo.com)
